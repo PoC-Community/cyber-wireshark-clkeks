@@ -1,0 +1,7 @@
+Source port: 44052
+Destination port: 5000
+Signin with the "POST"
+content type "application json" et longueur 52 bytes
+User name GROOT
+Mot de passe Je_sappelle_Groot
+Il n'a pas reussi a se connecter.
