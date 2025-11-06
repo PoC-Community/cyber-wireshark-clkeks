@@ -1,0 +1,13 @@
+
+Hypertext Transfer Protocol
+    POST /signout HTTP/1.1\r\n
+    Host: 127.0.0.1:5000\r\n
+    Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=\r\n
+        Credentials: username:password
+    User-Agent: curl/7.64.1\r\n
+    Accept: */*\r\n
+    Content-type: application/json\r\n
+    \r\n
+    [Full request URI: http://127.0.0.1:5000/signout]
+    [HTTP request 1/1]
+    [Response in frame: 10]
